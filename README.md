@@ -1,8 +1,8 @@
 ## 👋 Olá! Que bom que está aqui. Eu sou João Araújo. 
 
-- 📖 Aprendendo a gostar de leitura...
-- 🖥️ Aluno da BluEdtech
-- 💬 Vamos trocar uma ideia no Discord! Me chama lá:@joao_arauhjo#3652
+- 📖  Aprendendo a gostar de leitura...
+- 🖥️  Aluno da BluEdtech
+- 💬  Vamos trocar uma ideia no Discord! Me chama lá:@joao_arauhjo#3652
 
 <div>
   <a href="https://github.com/joao-arauhjo">
